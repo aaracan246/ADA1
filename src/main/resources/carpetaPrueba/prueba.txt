@@ -1,0 +1,10 @@
+Lectura Reader
+    FileReader
+    BufferedReader  <---
+    InputStreamReader
+
+
+Escritura Writer
+    FileWriter
+    Bufferedwriter  <---
+    PrintWriter
